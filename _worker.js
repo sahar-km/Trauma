@@ -7,17 +7,15 @@ let proxyIP = ['bpb.radically.pro'];
 
 let addresses = [
 	// everything you want, When sub is empty, the local preferred domain name/preferred IP is enabled. If the port number is not provided, the default TLS port is 443, and the alias after the # sign is a remark
-	'zula.ir:443#Trauma-√1',
-	'icook.hk:2083#Trauma-√2',
-	'vista.com:2053#Trauma-√3',
-	'www.wto.org:8443#Trauma-√4',
-	'go.inmobi.com:2053#Trauma-√5',
-	'www.speedtest.net:443#Trauma-√6',
-	'sky.rethinkdns.com:2053#Trauma-√7',
-	'creativecommons.org:443#Trauma-√8',
-	'time.cloudflare.com:2053#Trauma-√9',
-	'[2a06:98c1:3120::3]#Trauma-V6-√10',
-	'[2a06:98c1:3121::3]#Trauma-V6-√11',
+	'zula.ir:443#★TRAUMA¹',
+	'fbi.gov:8443#★TRAUMA²',
+	'icook.hk:2053#★TRAUMA³',
+	'cdnjs.com:2083#★TRAUMA⁴',
+	'www.wto.org:2087#★TRAUMA⁵',
+	'go.inmobi.com:2096#★TRAUMA⁶',
+	'www.speedtest.net:443#★TRAUMA⁷',
+	'sky.rethinkdns.com:8443#★TRAUMA⁸',
+	'creativecommons.org:2053#★TRAUMA⁹'
 ];
 
 let sub = '';
